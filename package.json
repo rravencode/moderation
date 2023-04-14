@@ -1,0 +1,28 @@
+{
+  "name": "v14moderation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Raven's sunucusu için moderasyon botu.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "moderation",
+    "discord",
+    "discordapp"
+  ],
+  "author": "romanwashere",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.10.0-dev.1681473868-0d0e4d1.0"
+  },
+  "devDependencies": {
+    "apptools": "^1.0.0",
+    "croxydb": "^0.0.7"
+  }
+}
