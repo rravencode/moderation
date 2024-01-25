@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.10.0-dev.1681473868-0d0e4d1.0",
-    "croxydb": "^0.0.7"
+    "croxydb": "^0.0.7",
+    "express": "^4.18.2"
   }
 }
